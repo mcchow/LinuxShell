@@ -1,2 +1,2 @@
 # LinuxShell
-I simple Linux Shell
+A simple Linux Shell that only run on lunix OS system, written in C, basic pratics
